@@ -1,0 +1,37 @@
+{
+"Fan": {
+"Version": "FAN_V2.1",
+"InstallDate": "2025-01-01",
+"CyclesSinceInstall": 220,
+"Efficiency_Modifier": 65,
+"MaxCycles": 200
+},
+"LPC": {
+"Version": "LPC_V3.2",
+"InstallDate": "2025-03-01",
+"CyclesSinceInstall": 350,
+"Efficiency_Modifier": 0.1,
+"MaxCycles": 180
+},
+"HPC": {
+"Version": "HPC_V3.0",
+"InstallDate": "2024-11-20",
+"CyclesSinceInstall": 160,
+"Efficiency_Modifier": 0.92,
+"MaxCycles": 200
+},
+"HPT": {
+"Version": "HPT_V1.9",
+"InstallDate": "2025-02-10",
+"CyclesSinceInstall": 145,
+"Efficiency_Modifier": 0.97,
+"MaxCycles": 190
+},
+"LPT": {
+"Version": "LPT_V1.5",
+"InstallDate": "2025-02-20",
+"CyclesSinceInstall": 148,
+"Efficiency_Modifier": 0.96,
+"MaxCycles": 180
+}
+}

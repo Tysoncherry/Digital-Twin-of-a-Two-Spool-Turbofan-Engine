@@ -1,0 +1,9 @@
+Fanfault: FaultMode = 1;
+
+LPC fault: FaultMode = 2;
+
+N1 reduction: FaultMode = 3;
+
+Fuel fault: FaultMode = 4;
+
+FaultMode = 0;
